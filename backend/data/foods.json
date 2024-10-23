@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Cheese Burger",
+        "description": "Juicy beef burger with cheese and fresh lettuce.",
+        "price": 8.99,
+        "restaurant": "Burger House"
+    },
+    {
+        "name": "Spaghetti Carbonara",
+        "description": "Classic Italian pasta with creamy sauce.",
+        "price": 12.50,
+        "restaurant": "Pasta Palace"
+    },
+    {
+        "name": "Margherita Pizza",
+        "description": "Traditional pizza topped with fresh tomatoes and mozzarella.",
+        "price": 10.00,
+        "restaurant": "Pizza World"
+    }
+
+]
